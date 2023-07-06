@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">TwoActivities</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message received\n</string>
+    <string name="editText_main">"Enter Your Message Here "</string>
+    <string name="button_second">Reply\n</string>
+    <string name="editText_second">Enter\n</string>
+    <string name="text_header_reply">Reply received\n</string>
+    <string name="button_main">Return\n</string>
+
+</resources>
