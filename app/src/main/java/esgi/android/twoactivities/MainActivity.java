@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void launchSecondActivity(View view) {
         Log.d(LOG_TAG, "Button clicked!");
-        Toast.makeText(this, "Sent", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "HOLAAA", Toast.LENGTH_LONG).show();
         Intent intent = new Intent(this, SecondActivity.class);
         String message = mMessageEditText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);
